@@ -1,2 +1,2 @@
 # Cohort-2.0
-Hello there! This is the Zerodha landing page( version 1.0). It does not have the components when you scroll yet!
+Hello there! This is the repo where I'll post all the assignments and projects from the 100xdevs cohort 2.0.
